@@ -7,7 +7,7 @@ from utils.database_utils import get_db_engine, extract_schema
 import pandas as pd
 from groq import Groq
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "gsk_yVFScGgXDGoKnZ6QYvsuWGdyb3FYC6jyCd78kiAC9P##########"
 
 st.title("DataScribe: AI-Powered Schema Explorer")
 st.sidebar.header("Configure Database")
